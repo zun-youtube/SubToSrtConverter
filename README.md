@@ -1,1 +1,3 @@
 # 使い方
+`SubToSrtConverter.zip`をダウンロードしてください。
+解凍したらSubToSrtConverter.exeというファイルがあるので起動すれば使い方は分かると思います。
